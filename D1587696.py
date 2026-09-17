@@ -1,5 +1,2 @@
-x="*"
-print(x)
-print(x,x)
-print(x,x,x)
-print(x,x,x,x)
+for i in range(5):
+    print("*****")
